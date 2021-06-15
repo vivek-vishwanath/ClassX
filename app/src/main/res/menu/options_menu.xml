@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/create_forum"
+        android:title="@string/create_forum"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/join_public_forum"
+        android:title="@string/join_public_forum"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/join_private_forum"
+        android:title="@string/join_private_forum"
+        app:showAsAction="never" />
+
+</menu>

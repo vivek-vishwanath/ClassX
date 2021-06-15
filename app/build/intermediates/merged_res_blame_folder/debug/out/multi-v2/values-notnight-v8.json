@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vivs0\\AndroidStudioProjects\\ClassX3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-notnight-v8\\values-notnight-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vivs0\\AndroidStudioProjects\\ClassX3\\app\\src\\main\\res\\values-notnight\\colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,21,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,930,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,51,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,977,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,104,157,199,251,304,356,413,471,518,565,617,662,707,758,805,857,908",
+                        "endColumns": "48,52,41,51,52,51,56,57,46,46,51,44,44,50,46,51,50,41",
+                        "endOffsets": "99,152,194,246,299,351,408,466,513,560,612,657,702,753,800,852,903,945"
+                    }
+                }
+            ]
+        }
+    ]
+}

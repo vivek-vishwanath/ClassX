@@ -1,0 +1,85 @@
+com/example/classx/DrawableBackground.java
+ com.example.classx.DrawableBackground
+com/example/classx/ui/activities/SignUpActivity.java
+ com.example.classx.ui.activities.SignUpActivity
+com/example/classx/ui/calendar/CalendarFragment.java
+ com.example.classx.ui.calendar.CalendarFragment
+com/example/classx/ui/activities/BottomNavigationActivity.java
+ com.example.classx.ui.activities.BottomNavigationActivity
+com/example/classx/ui/forums/navigation/calendar/Event.java
+ com.example.classx.ui.forums.navigation.calendar.Event
+com/example/classx/ui/messages/MessagesFragment.java
+ com.example.classx.ui.messages.MessagesFragment
+com/example/classx/ui/forums/navigation/calendar/AddEventActivity.java
+ com.example.classx.ui.forums.navigation.calendar.AddEventActivity
+ com.example.classx.ui.forums.navigation.calendar.AddEventActivity$DatePickerFragment
+ com.example.classx.ui.forums.navigation.calendar.AddEventActivity$TimePickerFragment
+com/example/classx/ui/settings/SettingsFragment.java
+ com.example.classx.ui.settings.SettingsFragment
+com/example/classx/ui/forums/navigation/thread/ForumThreadFragment.java
+ com.example.classx.ui.forums.navigation.thread.ForumThreadFragment
+com/example/classx/ui/forums/fragment/FindForumActivity.java
+ com.example.classx.ui.forums.fragment.FindForumActivity
+ com.example.classx.ui.forums.fragment.FindForumActivity$1
+com/example/classx/ui/forums/navigation/settings/UsersAdapter.java
+ com.example.classx.ui.forums.navigation.settings.UsersAdapter
+ com.example.classx.ui.forums.navigation.settings.UsersAdapter$ViewHolder
+com/example/classx/ui/profile/ProfileFragment.java
+ com.example.classx.ui.profile.ProfileFragment
+com/example/classx/ui/messages/ObjectSerializer.java
+ com.example.classx.ui.messages.ObjectSerializer
+com/example/classx/ui/forums/fragment/NewForumActivity.java
+ com.example.classx.ui.forums.fragment.NewForumActivity
+ com.example.classx.ui.forums.fragment.NewForumActivity$1
+com/example/classx/ui/activities/SocialMediaActivity.java
+ com.example.classx.ui.activities.SocialMediaActivity
+com/example/classx/ui/forums/fragment/ObjectSerializer.java
+ com.example.classx.ui.forums.fragment.ObjectSerializer
+com/example/classx/ui/forums/fragment/Forum.java
+ com.example.classx.ui.forums.fragment.Forum
+com/example/classx/ui/forums/navigation/calendar/ObjectSerializer.java
+ com.example.classx.ui.forums.navigation.calendar.ObjectSerializer
+com/example/classx/BuildConfig.java
+ com.example.classx.BuildConfig
+com/example/classx/ui/forums/fragment/ForumsFragment.java
+ com.example.classx.ui.forums.fragment.ForumsFragment
+com/example/classx/ui/messages/Message.java
+ com.example.classx.ui.messages.Message
+com/example/classx/ui/activities/MainActivity.java
+ com.example.classx.ui.activities.MainActivity
+com/example/classx/ui/messages/ChatActivity.java
+ com.example.classx.ui.messages.ChatActivity
+com/example/classx/ui/forums/navigation/NavigationDrawerActivity.java
+ com.example.classx.ui.forums.navigation.NavigationDrawerActivity
+com/example/classx/ui/messages/FindContactActivity.java
+ com.example.classx.ui.messages.FindContactActivity
+ com.example.classx.ui.messages.FindContactActivity$1
+com/example/classx/ui/messages/Contact.java
+ com.example.classx.ui.messages.Contact
+com/example/classx/ui/settings/ThemeActivity.java
+ com.example.classx.ui.settings.ThemeActivity
+com/example/classx/ui/forums/navigation/thread/ForumPostAdapter.java
+ com.example.classx.ui.forums.navigation.thread.ForumPostAdapter
+ com.example.classx.ui.forums.navigation.thread.ForumPostAdapter$ViewHolder
+com/example/classx/ui/forums/fragment/ForumsAdapter.java
+ com.example.classx.ui.forums.fragment.ForumsAdapter
+com/example/classx/ui/forums/navigation/settings/ForumSettingsFragment.java
+ com.example.classx.ui.forums.navigation.settings.ForumSettingsFragment
+com/example/classx/ui/activities/PrivacyPolicyActivity.java
+ com.example.classx.ui.activities.PrivacyPolicyActivity
+com/example/classx/ui/forums/navigation/thread/ForumPost.java
+ com.example.classx.ui.forums.navigation.thread.ForumPost
+com/example/classx/ui/forums/navigation/calendar/ForumCalendarFragment.java
+ com.example.classx.ui.forums.navigation.calendar.ForumCalendarFragment
+com/example/classx/ui/forums/navigation/calendar/DateTime.java
+ com.example.classx.ui.forums.navigation.calendar.DateTime
+com/example/classx/ui/calendar/EventAdapter.java
+ com.example.classx.ui.calendar.EventAdapter
+ com.example.classx.ui.calendar.EventAdapter$ViewHolder
+com/example/classx/ui/forums/navigation/thread/ObjectSerializer.java
+ com.example.classx.ui.forums.navigation.thread.ObjectSerializer
+com/example/classx/ui/activities/CreateAccountActivity.java
+ com.example.classx.ui.activities.CreateAccountActivity
+com/example/classx/ui/messages/ContactsAdapter.java
+ com.example.classx.ui.messages.ContactsAdapter
+ com.example.classx.ui.messages.ContactsAdapter$ViewHolder

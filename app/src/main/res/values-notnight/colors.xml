@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="app_theme_blue">#2196F3</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_color">#FFFFFFFF</color>
+    <color name="dark_background">#FFAFAFAF</color>
+    <color name="text_color">#FF000000</color>
+    <color name="text_color_hint">#FF888888</color>
+    <color name="text_off_color">#FF333333</color>
+
+    <color name="forum_post_color">#FF151f2b</color>
+    <color name="forum_post_text_color">#FFFFFFFF</color>
+    <color name="forum_post_off_color">#FFCCCCCC</color>
+    <color name="forum_post_gray">#FF999999</color>
+
+    <color name="sign_out_button">#FF666666</color>
+    <color name="text_box_color">#FFDDDDDD</color>
+</resources>
